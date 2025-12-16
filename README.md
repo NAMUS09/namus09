@@ -24,16 +24,6 @@ Full-Stack Engineer — Results-driven Senior Software Engineer with 3+ years of
 
 ---
 
-## ✨ Featured projects
-I can generate formatted project cards once you provide the repository names and short descriptions. For example:
-- project-alpha — High-performance API and analytics engine (Node, Redis)
-- ui-kit — Reusable React component library with Storybook
-- platform-service — Microservice suite for auth and billing
-
-If you share 3–6 repo names + one-line descriptions (and repo URLs if not under your username), I'll replace these placeholders with live links, badges, and demo GIFs.
-
----
-
 ## 📈 GitHub stats (dark theme)
 ![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=NAMUS09&show_icons=true&count_private=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NAMUS09&layout=compact&theme=dark)
@@ -56,19 +46,3 @@ Even though I'm not actively looking, I enjoy:
 - Mentoring engineers and improving code quality & maintainability
 
 ---
-
-## 📝 What I can add next (pick any)
-- Pinned project cards with README excerpts, demo GIFs and badges  
-- A short “Tech proficiency” table or self-rated skill bars  
-- Professional photo / profile banner and themed styling (light/dark)  
-- Resume download link or contact form integration  
-- Blog posts, talks, or publications section
-
----
-
-Made with care — if you'd like, I will now:
-- insert real project cards (send 3–6 repo names + URLs), and/or  
-- add a profile photo/banner (send URLs or say "use GitHub avatar"), and/or  
-- tweak wording, layout, or theme (light vs dark).
-
-Tell me which of the "What I can add next" items you'd like and provide any repo links or images, and I'll regenerate a ready-to-paste README.md.
