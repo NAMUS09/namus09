@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi — I'm Er. Suman Shrestha 👋
 
-<!--
-**NAMUS09/namus09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Follow on GitHub](https://img.shields.io/github/followers/NAMUS09?label=Follow&style=social)](https://github.com/NAMUS09) [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.shrestha-suman.com.np&style=flat)](https://www.shrestha-suman.com.np/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrestha-suman/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:er.shrestha.suman@gmail.com)
 
-Here are some ideas to get you started:
+Full-Stack Engineer — Results-driven Senior Software Engineer with 3+ years of experience designing and delivering high-performance, scalable web applications across startup and enterprise environments. Skilled in full-stack development, microservices, cloud infrastructure (AWS, GCP, Azure), and DevOps automation. Strong background in modular architecture, CI/CD pipelines, and team leadership, with a passion for building clean, maintainable code that drives business growth and digital transformation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Quick snapshot
+- 🔭 Current focus: modern web architecture, performance-first frontends, and robust backend systems  
+- ⚙️ Approach: modular design, automated pipelines, observability, and pragmatic testing  
+- 📍 Location: Dhobighat, Lalitpur, Nepal  
+- ⚠️ Availability: Not looking (open to low-effort OSS collaborations & mentorship inquiries)
+
+---
+
+## 🛠️ Tech stack (highlights)
+- Frontend: React, Next.js  
+- Backend: Node.js, Express, Bun  
+- Databases: MongoDB, PostgreSQL, Redis  
+- Queues & workers: BullMQ  
+- Dev & infra: Docker, CI/CD, AWS / GCP / Azure  
+- Other: TypeScript, testing, observability, microservices
+
+---
+
+## ✨ Featured projects
+I can generate formatted project cards once you provide the repository names and short descriptions. For example:
+- project-alpha — High-performance API and analytics engine (Node, Redis)
+- ui-kit — Reusable React component library with Storybook
+- platform-service — Microservice suite for auth and billing
+
+If you share 3–6 repo names + one-line descriptions (and repo URLs if not under your username), I'll replace these placeholders with live links, badges, and demo GIFs.
+
+---
+
+## 📈 GitHub stats (dark theme)
+![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=NAMUS09&show_icons=true&count_private=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NAMUS09&layout=compact&theme=dark)
+
+---
+
+## 📫 Contact & socials
+- Website: [shrestha-suman.com.np](https://www.shrestha-suman.com.np/)  
+- LinkedIn: [shrestha-suman](https://www.linkedin.com/in/shrestha-suman/)  
+- Email: [er.shrestha.suman@gmail.com](mailto:er.shrestha.suman@gmail.com)  
+- GitHub: [@NAMUS09](https://github.com/NAMUS09)
+
+---
+
+## 💡 How I can help / collaborate
+Even though I'm not actively looking, I enjoy:
+- Architecting resilient full-stack systems (React + Next / Node)  
+- Designing microservices and event-driven architectures  
+- Building CI/CD pipelines, containerization, and DevOps automation  
+- Mentoring engineers and improving code quality & maintainability
+
+---
+
+## 📝 What I can add next (pick any)
+- Pinned project cards with README excerpts, demo GIFs and badges  
+- A short “Tech proficiency” table or self-rated skill bars  
+- Professional photo / profile banner and themed styling (light/dark)  
+- Resume download link or contact form integration  
+- Blog posts, talks, or publications section
+
+---
+
+Made with care — if you'd like, I will now:
+- insert real project cards (send 3–6 repo names + URLs), and/or  
+- add a profile photo/banner (send URLs or say "use GitHub avatar"), and/or  
+- tweak wording, layout, or theme (light vs dark).
+
+Tell me which of the "What I can add next" items you'd like and provide any repo links or images, and I'll regenerate a ready-to-paste README.md.
